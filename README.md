@@ -18,7 +18,6 @@ This project is a Walmart and Amazon product price scraper using the Scrapy libr
 
 - Python 3.8 or higher
 - Scrapy 2.5.1
-- scrapy-fake-useragent
 
 ## Installation
 
