@@ -49,3 +49,4 @@ To run the spider and save the data to a JSON file, use the following command:
 
 ```bash
 scrapy crawl walmart -o products.json
+```
